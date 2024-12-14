@@ -43,7 +43,7 @@ ls
 python setup.py
 ```
 ```
-python main.py
+python main.py     
 ```
 
 ## WINDOWS ✅
