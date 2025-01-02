@@ -1,7 +1,7 @@
 # ZOIC - DDoS Attack Tools Remake 🔥
 - **Remake !! 🔥**
 - **Bug fix ✅** 
-- **CloudFlare Bypass ✅**
+- **CloudFlare Bypass ✅** 
 - **DDoS Guard Bypass ✅**
 - **ProxyRequest Attack ✅**
 
