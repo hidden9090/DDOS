@@ -3,7 +3,7 @@
 - **Bug fix ✅** 
 - **CloudFlare Bypass ✅** 
 - **DDoS Guard Bypass ✅** 
-- **ProxyRequest Attack ✅**
+- **ProxyRequest Attack ✅** 
 
 - CONTACT :- MY TELEGRAM - https://t.me/hidden9090 
 
