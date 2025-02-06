@@ -2,12 +2,7 @@
 - **Remake !! 🔥**            
 - **Bug fix ✅**   
 - **CloudFlare Bypass ✅**  
-- **DDoS Guard Bypass ✅**     
-- **ProxyRequest Attack ✅** 
- 
-- CONTACT :- MY TELEGRAM - https://t.me/hidden9090   
-
-- If not replying you than  I'm busy in that case , please    
+- **DDoS Guard Bypass ✅**      
 Text my team 
 (https://t.me/hidden9090team)   
    
